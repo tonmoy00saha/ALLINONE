@@ -21,7 +21,7 @@ const Home = () => {
                         <h2 className="card-title">Cafeteria</h2>
                         <p>Fuel your mind and body with our fresh, nutritious, and delicious meals – because great ideas start with great food!</p>
                         <div className="card-actions justify-end">
-                            <button className="btn btn-primary"><Link to="/cafeteria">Details</Link></button>
+                            <button className="btn btn-primary"><Link to="/cafeteria/breakfast">Details</Link></button>
                         </div>
                     </div>
                 </div>

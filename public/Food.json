@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Chirer Polao",
+      "category": "Breakfast",
+      "price": 30,
+      "image": "https://example.com/images/chirer-polao.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Paratha & Egg Curry",
+      "category": "Breakfast",
+      "price": 40,
+      "image": "https://example.com/images/paratha-egg.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Khichuri & Beguni",
+      "category": "Breakfast",
+      "price": 50,
+      "image": "https://example.com/images/khichuri-beguni.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Luchi & Cholar Dal",
+      "category": "Breakfast",
+      "price": 45,
+      "image": "https://example.com/images/luchi-cholar-dal.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rice, Dal & Alu Bharta",
+      "category": "Lunch",
+      "price": 60,
+      "image": "https://example.com/images/rice-dal-alu-bharta.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rice, Dal & Egg Curry",
+      "category": "Lunch",
+      "price": 70,
+      "image": "https://example.com/images/rice-dal-egg.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Rice, Dal & Chicken Curry",
+      "category": "Lunch",
+      "price": 100,
+      "image": "https://example.com/images/rice-dal-chicken.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rice, Dal & Fish Curry",
+      "category": "Lunch",
+      "price": 90,
+      "image": "https://example.com/images/rice-dal-fish.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rice, Dal & Beef Curry",
+      "category": "Lunch",
+      "price": 120,
+      "image": "https://example.com/images/rice-dal-beef.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mixed Vegetable & Rice",
+      "category": "Lunch",
+      "price": 70,
+      "image": "https://example.com/images/mixed-vegetable-rice.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Singara (2 pcs)",
+      "category": "Snacks",
+      "price": 20,
+      "image": "https://example.com/images/singara.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Samosa (2 pcs)",
+      "category": "Snacks",
+      "price": 25,
+      "image": "https://example.com/images/samosa.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Puffed Rice & Potato Chop",
+      "category": "Snacks",
+      "price": 30,
+      "image": "https://example.com/images/muri-chop.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Vegetable Roll",
+      "category": "Snacks",
+      "price": 35,
+      "image": "https://example.com/images/vegetable-roll.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Chicken Roll",
+      "category": "Snacks",
+      "price": 50,
+      "image": "https://example.com/images/chicken-roll.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Muri & Chanachur",
+      "category": "Snacks",
+      "price": 25,
+      "image": "https://example.com/images/muri-chanachur.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Rice, Dal & Chicken Roast",
+      "category": "Dinner",
+      "price": 110,
+      "image": "https://example.com/images/rice-dal-chicken-roast.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Rice, Dal & Fish Fry",
+      "category": "Dinner",
+      "price": 100,
+      "image": "https://example.com/images/rice-dal-fish-fry.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Rice, Dal & Paneer Curry",
+      "category": "Dinner",
+      "price": 90,
+      "image": "https://example.com/images/rice-dal-paneer.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Rice, Dal & Mutton Curry",
+      "category": "Dinner",
+      "price": 150,
+      "image": "https://example.com/images/rice-dal-mutton.jpg"
+    }
+  ]
+  
