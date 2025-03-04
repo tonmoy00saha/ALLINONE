@@ -8,6 +8,8 @@ import Bustracker from "../Bus Tracker/Bustracker";
 import FacultyInfo from "../FacultyInfo/FacultyInfo";
 import EventClub from "../EventClub/EventClub";
 import CampusNav from "../CampusNav/CampusNav";
+import Login from "../Header/Navbar/Login/Login";
+import Signup from "../Header/Navbar/Signup/Signup";
 export const router = createBrowserRouter([
     {
         path: "/",
@@ -36,6 +38,14 @@ export const router = createBrowserRouter([
             {
                 path: '/campusnav',
                 element: <CampusNav></CampusNav>
+            },
+            {
+                path: '/login',
+                element: <Login></Login>
+            },
+            {
+                path: '/signup',
+                element: <Signup></Signup>
             }
         ]
     },
